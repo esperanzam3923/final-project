@@ -35,5 +35,16 @@ body,html{
     background-color: beige;
 }
 h2 {
-    text-align: center;
+    text-align: left;
 }
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: beige;
+    color: black;
+  }
+  .card {
+    box-shadow: grey;
+    margin: 8px;
+  }
+  
